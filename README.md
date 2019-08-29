@@ -1,2 +1,2 @@
 # NUC972_Linux
-NUC972 Linux Study Lessons materials
+NUC972 Linux Lessons Resource
