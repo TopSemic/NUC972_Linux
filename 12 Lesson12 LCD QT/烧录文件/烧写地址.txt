@@ -1,0 +1,14 @@
+…’–¥£∫
+
+Uboot-spl.bin   uboot     0x200
+
+Uboot.bin      data      0x100000
+
+Env.txt         env       0x80000
+
+970uImage     data      0x200000
+
+Rootfs         data       0x2000000
+
+
+
