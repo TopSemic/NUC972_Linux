@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Test Page</title>		
+    </head>
+    <script type="text/javascript">
+        function led_on() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "led-on.cgi");
+            xhr.send();
+        }
+        function led_off() {
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "led-off.cgi");
+            xhr.send();
+        }
+    </script>
+    <body style="margin-left:480px">
+        <h2>TopSemic LED Example</h2>
+		LED D3:<br>
+            <button type="button" onclick="led_on()">ON</button>
+            <button type="button" onclick="led_off()">OFF</button>
+    </body>
+</html>
