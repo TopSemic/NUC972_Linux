@@ -1,0 +1,7 @@
+map <F2> :NERDTreeToggle<CR>
+nnoremap <F3> :NERDTreeFind<CR>
+map <F4> :TlistToggle <CR>
+let Tlist_Use_Right_Window = 1
+map <F6>  :vertical resize +1<CR>
+map <F5>  :vertical resize -1<CR>
+set cscopequickfix=c-,d-,e-,g-,i-,s-,t-
