@@ -1,0 +1,1 @@
+cmd_/home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/mpu6050d.ko := arm-linux-ld -EL -r  -T /home/qlqcetc/nuc970bsp/02.linux内核3.10.x/scripts/module-common.lds --build-id  -o /home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/mpu6050d.ko /home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/mpu6050d.o /home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/mpu6050d.mod.o

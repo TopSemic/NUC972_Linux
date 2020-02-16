@@ -1,0 +1,1 @@
+cmd_/home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/built-in.o :=  rm -f /home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/built-in.o; arm-linux-ar rcsD /home/qlqcetc/nuc970bsp/06.示例驱动程序/03.mpu6050/built-in.o
